@@ -1,4 +1,4 @@
-# discovery-service
+# Discovery Service
 discovery service for registry all microservices
 
 # Docker Image
